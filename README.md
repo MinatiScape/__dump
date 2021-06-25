@@ -1,0 +1,14 @@
+# full_oppo6771-user 10 QP1A.190711.020 7604ad4e2b1328a1 release-keys
+- manufacturer: 
+- platform: mt6771
+- codename: 
+- flavor: full_oppo6771-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: 
+- tags: release-keys
+- fingerprint: 
+- is_ab: false
+- brand: 
+- branch: full_oppo6771-user-10-QP1A.190711.020-7604ad4e2b1328a1-release-keys
+- repo: __dump
